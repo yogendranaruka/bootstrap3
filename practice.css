@@ -1,0 +1,39 @@
+#first{
+    height: 200px;
+    background-color: aqua;
+    margin: 1%;
+}
+#second{
+    height: 200px;
+    background-color: pink;
+    margin: 1%;
+}
+#third{
+    height: 200px;
+    background-color: palevioletred;
+    margin: 1%;
+}
+#fourth{
+    height: 200px;
+    background-color: green;
+    margin: 1%;
+}
+#fifth{
+    height: 200px;
+    background-color: red;
+    margin: 1%;
+}
+#sixth{
+    height: 200px;
+    background-color: rebeccapurple;
+    margin: 1%;
+}
+#seventh{
+    height: 200px;
+    background-color: royalblue;
+    margin: 1%;
+}
+.carousel-inner img{
+    width: 100%;
+    height: 400px !important;
+}
